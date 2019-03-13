@@ -9,7 +9,10 @@ Daily Bash Task
   
   command ls need for get all files and folder in current position
   
-  For detailed information, you can use: ls -l
+  For detailed information, you can use: 
+    ```bash 
+        ls -l
+    ```
   
   Output: 
     ```bash
@@ -28,6 +31,9 @@ Daily Bash Task
   
   If you'll need to see hidden files, just use: -a flag
   
-  And you can combine all flags, for example: ls -la
+  And you can combine all flags, for example: 
+    ```bash 
+        ls -la
+    ```
   
   
